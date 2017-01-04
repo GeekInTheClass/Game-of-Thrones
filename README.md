@@ -3,7 +3,7 @@
 정말재밌다
 
 
-![](https://raw.githubusercontent.com/GeekInTheClass/DoctorWho/master/Intro.jpg)
+![](https://raw.githubusercontent.com/GeekInTheClass/Game-of-Thrones/master/intro.jpg)
 
 
 
