@@ -1,7 +1,6 @@
 # Game-of-Thrones
 왕좌의게임 재밌다
-#닥터후 (Doctor Who)
-영국 BBC에서 방영하는 세계에서 가장 오래된 공상과학 드라마. 시간여행물.
+
 
 ![](https://raw.githubusercontent.com/GeekInTheClass/DoctorWho/master/Intro.jpg)
 
