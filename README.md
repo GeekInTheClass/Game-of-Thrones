@@ -1,9 +1,9 @@
 # Game-of-Thrones
 왕좌의게임 재밌다 왕재밌다
-정말재밌다..
+정말재밌다
 
 
-![](https://raw.githubusercontent.com/GeekInTheClass/DoctorWho/master/Intro.jpg)
+![](https://raw.githubusercontent.com/GeekInTheClass/Game-of-Thrones/master/game_of_throme.jpg)
 
 
 
